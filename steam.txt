@@ -50,3 +50,10 @@ update1.csgo.wmsj.cn
 st.dl.bscstorage.net
 cdn.mileweb.cs.steampowered.com.8686c.com
 steamcdn-a.akamaihd.net
+cache7-fra2.steamcontent.com
+cache2-fra2.steamcontent.com
+cache1-ala-kzkt.steamcontent.com
+cache2-ala-kzkt.steamcontent.com
+cache1-sto2.steamcontent.com
+cache4-sto1.steamcontent.com
+
